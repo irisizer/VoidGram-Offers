@@ -1,0 +1,17 @@
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.DS_Store
+
+# Telegram pattern fetcher
+docs/.tg-patterns.session*
+docs/patterns/
+
+docs/.venv/
+docs/.tg-credentials.json
+docs/patterns-app/node_modules/
+docs/patterns-app/dist/
+
+# Local, machine-specific
+.claude/settings.local.json
+docs/patterns-app/public/patterns/
