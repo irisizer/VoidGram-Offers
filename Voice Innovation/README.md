@@ -4,13 +4,9 @@
 
 ## Demo
 
-<!--
-  Inline playback on GitHub needs an uploaded asset URL — a committed .mp4 only gets a link.
-  To embed the player: edit this file on github.com, drag 7.mp4 into the editor and GitHub
-  inserts the player line (https://github.com/user-attachments/assets/…) on its own line.
--->
+<a href="7.mp4"><img src="7.webp" width="600" alt="Voice Innovation demo"></a>
 
-**▶ [Watch the demo](7.mp4)**
+<sub>Inline preview is silent — <a href="7.mp4">7.mp4</a> plays the full video with sound.</sub>
 
 ---
 

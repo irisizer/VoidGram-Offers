@@ -12,4 +12,4 @@ Seven modifications for Telegram — each folder holds the full source of one of
 | 6 | [Black-Hole Delete](<Black-Hole Delete>) | Clearing a chat's history pulls every message into a black hole in the Dynamic Island. |
 | 7 | [Voice Innovation](<Voice Innovation>) | Transcript that syncs with playback, word-level seeking, search, quoting with timestamps, and an AI summary. |
 
-Each folder's README starts with its demo: `1.mp4` … `7.mp4`, numbered in the order above.
+Each folder's README starts with its demo: an inline preview (`1.webp` … `7.webp`) that links to the full recording with sound (`1.mp4` … `7.mp4`), numbered in the order above.
